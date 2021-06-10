@@ -7,5 +7,4 @@
 - 模型推理都在在移动端本地执行。
 - 需要下载谷歌的facenet模型20180408-102900.pb。
 - 下载地址在gitee https://gitee.com/daoge12138/Android-coursedesign.git
-![hif]
-![gif2]
+![gif2](gif2.gif)
